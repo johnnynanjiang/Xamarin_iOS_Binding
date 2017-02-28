@@ -1,0 +1,6 @@
+.DS_Store
+libInfColorPickerLibrary-arm64.a
+libInfColorPickerLibrary-armv7.a
+libInfColorPickerLibrary-i386.a
+libInfColorPickerLibrary.a
+build

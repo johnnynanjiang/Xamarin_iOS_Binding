@@ -1,0 +1,1 @@
+sharpie bind -output TestBindingLibrary/bin/InfColorPicker -namespace InfColorPicker -sdk iphoneos10.2 /Users/nanjiang/Documents/dev/projects/Xcode/InfColorPicker/InfColorPicker/InfColorPicker.h
